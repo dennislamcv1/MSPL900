@@ -1,5 +1,6 @@
 # MSPL900
-## Microsoft Power Platform Fundamentals PL-900 Exam Prep Specialization
+
+## Microsoft Power Platform Fundamentals PL-900 Exam Prep Specialization (4 course series)
 
 Welcome to the Microsoft Power Platform Fundamentals Specialization! 
 
